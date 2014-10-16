@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerBind", "LayerBind\LayerBind.csproj", "{A1823DC9-6141-4213-BD51-E03978A82DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1823DC9-6141-4213-BD51-E03978A82DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1823DC9-6141-4213-BD51-E03978A82DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1823DC9-6141-4213-BD51-E03978A82DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1823DC9-6141-4213-BD51-E03978A82DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
